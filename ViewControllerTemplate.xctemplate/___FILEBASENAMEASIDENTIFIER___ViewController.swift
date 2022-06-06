@@ -1,4 +1,5 @@
-//___FILEHEADER___
+//  ___FILEBASENAMEASIDENTIFIER___.swift
+
 
 import UIKit
 
@@ -6,7 +7,7 @@ class ___FILEBASENAMEASIDENTIFIER___: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
     }
+
 }
+
